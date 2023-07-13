@@ -1,0 +1,9 @@
+{
+  "scripts" : {
+    "build" : "tsc",
+    "launch" : "node_modules/live-server/live-server.js"
+  },
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
