@@ -25,5 +25,3 @@ Packages will be installed in `npm root` for local or `npm root -g` for global.
 Run the launch script defined in `package.json`.
 
 `npm run launch`
-
-Open `sudoku.html`
